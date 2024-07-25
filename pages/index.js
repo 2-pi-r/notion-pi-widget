@@ -12,5 +12,3 @@ export default function Home() {
     </div>
   );
 }
-
-src="https://unpkg.com/@lyket/widget@latest/dist/lyket.js?apiKey=pt_43aef4ee7acb29ab69c58436c129b7&disableSessionId"
