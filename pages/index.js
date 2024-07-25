@@ -5,11 +5,12 @@ export default function Home() {
     <div className={styles.container}>
       <main className={styles.main}>
         <p className={styles.description}>
-          This is a Notion Lyket embed widget. Check how to add this to your
-          Notion project{" "}
-          <a href="https://github.com/lyket-dev/notion-embed">here</a>
+          작업 : 노션 강의하는 파이
+          <a href="http://2-pi-r.notion.site/">홈페이지</a>
         </p>
       </main>
     </div>
   );
 }
+
+src="https://unpkg.com/@lyket/widget@latest/dist/lyket.js?apiKey=pt_43aef4ee7acb29ab69c58436c129b7&disableSessionId"
