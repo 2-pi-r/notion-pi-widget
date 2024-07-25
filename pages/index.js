@@ -6,7 +6,10 @@ export default function Home() {
       <main className={styles.main}>
         <p className={styles.description}>
           작업 : 노션 강의하는 파이
-          <a href="http://2-pi-r.notion.site/">홈페이지</a>
+        </p>
+        <br/>
+        <p className={styles.description}>
+          <a href="http://2-pi-r.notion.site/">홈페이지 링크</a>
         </p>
       </main>
     </div>
